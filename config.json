@@ -12,9 +12,7 @@
         "youtube-music"
     ],
     "lyrics_providers": [
-        "genius",
-        "azlyrics",
-        "musixmatch"
+        "genius"
     ],
     "genius_token": "alXXDbPZtK1m2RrZ8I4k2Hn8Ahsd0Gh_o076HYvcdlBvmc0ULL1H8Z8xRlew5qaG",
     "playlist_numbering": false,
@@ -25,7 +23,7 @@
     "overwrite": "skip",
     "search_query": null,
     "ffmpeg": "ffmpeg",
-    "bitrate": null,
+    "bitrate": "auto",
     "ffmpeg_args": null,
     "format": "mp3",
     "save_file": null,
