@@ -23,7 +23,7 @@
     "overwrite": "skip",
     "search_query": null,
     "ffmpeg": "ffmpeg",
-    "bitrate": "auto",
+    "bitrate": "disable",
     "ffmpeg_args": null,
     "format": "mp3",
     "save_file": null,
