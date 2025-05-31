@@ -25,7 +25,7 @@
     "ffmpeg": "ffmpeg",
     "bitrate": "disable",
     "ffmpeg_args": null,
-    "format": "opus",
+    "format": "mp3",
     "save_file": null,
     "filter_results": true,
     "album_type": null,
